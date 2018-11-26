@@ -4,8 +4,6 @@
  * @copyright	Copyright (c) 2018 3steechnosolutions. All rights reserved.
  * @license		http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
   * 3steechnosolutions - aboutus Helper Class.
- *
- * @package		Joomla.Site
  * @subpakage	3steechnosolutions.aboutus
  */
 
